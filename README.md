@@ -1,6 +1,6 @@
 This project analyzes data of money market funds to evaluate how primary manager, regulatory category, and public listing status impact funds and behaviors in the U.S. Money Market Funds sector. To this end, it combines econometrics, hypothesis tests, and machine learning to predict fund categories.
 
-###Key Findings:
+### Key Findings:
 * While the overall MMF market is unconcentrated ($\text{HHI} = 607.78$), specific sub-markets are exceptions. Single State municipal funds are relatively uncompetitive ($\text{HHI} = 2885.33$), exceeding the Department of Justice (DOJ) benchmark for high concentration ($2,500$).
 * A chi-square test revealed how manager size was strongly correlated with usage of sub-advisors ($\chi^2 = 220.44, p < 0.001$), with a strong overall effect ($Cramer's V = 0.428$).
 * Tier 1 (Large-Sized): tend to rely on sub-advisors ($\text{Residual} = +0.68$)
