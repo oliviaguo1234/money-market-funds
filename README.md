@@ -1,4 +1,5 @@
 This project analyzes data of money market funds to evaluate how primary manager, regulatory category, and public listing status impact funds and behaviors in the U.S. Money Market Funds sector. To this end, it combines econometrics, hypothesis tests, and machine learning to predict fund categories.
+The Herfindahl–Hirschman index (HHI) was used to measure market concentration.
 
 ### Key Findings:
 * While the overall MMF market is unconcentrated ($\text{HHI} = 607.78$), specific sub-markets are exceptions. Single State municipal funds are relatively uncompetitive ($\text{HHI} = 2885.33$), exceeding the Department of Justice (DOJ) benchmark for high concentration ($2,500$).
